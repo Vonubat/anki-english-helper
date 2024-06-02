@@ -1,0 +1,23 @@
+{
+    "name": "anki-english-helper",
+    "version": "0.1.0",
+    "description": "Simple helper for filling out cards",
+    "main": "index.js",
+    "type": "module",
+    "engines": {
+        "node": ">=20.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Vonubat/anki-english-helper.git"
+    },
+    "keywords": [
+        "nodejs"
+    ],
+    "author": "Vonubat <vonubat@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Vonubat/anki-english-helper/issues"
+    },
+    "homepage": "https://github.com/Vonubat/anki-english-helper"
+}
